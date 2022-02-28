@@ -1,0 +1,2 @@
+# Alina
+A lighting system app with preset and customizable features will be created for a lighting design company. The software will primarily be used for lighting designers to customize their clients’ homes’ lighting system. Furthermore, home owners will also be able to use the app, but will be given a very intuitive but customizable interface to use. A separate kids version of the app will be included, as well as security feature interconnected with the homes’ alarm systems.
